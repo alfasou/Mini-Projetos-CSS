@@ -1,2 +1,4 @@
 # Mini-Projetos-CSS
-Mini Projetos para Teste de Funções em CSS
+<div align="center">
+  <p>mini projetos para teste de funções em css</p>
+</div>
